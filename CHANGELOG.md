@@ -1,5 +1,29 @@
 # Changelog
 
+## [21.3.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.2.1...v21.3.0) (2024-12-05)
+
+
+### Features
+
+* **add:** 014G2480 ([#8442](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8442)) ([8ea8466](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8ea8466239da90137747efb45dd50a16e909209e))
+* **add:** GX04, GX03 ([#8383](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8383)) ([fcd5cf7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/fcd5cf77df3b0b07c039b840f3faa6c70d0dba04))
+* **add:** NHMOTION/UNIDIM/1 ([#8187](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8187)) ([e356332](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e356332c4d4df8ac3ad56dcf57c6d397551f02f7))
+* **add:** RTE 77.001B ([#8444](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8444)) ([92b2d55](https://github.com/Koenkk/zigbee-herdsman-converters/commit/92b2d551cc6e9ddf304bfffbe3e87c8b28ecd402))
+* **add:** TR-M2Z ([#8417](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8417)) ([c86175b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c86175b976372cd1707f3a5d721d3c628e3f3051))
+* **add:** TRV603-WZ ([#8443](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8443)) ([a59fca8](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a59fca865a3e024aaa844e5c6722aa3d9f21a520))
+* **add:** TS0505 ([#8425](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8425)) ([d9978b2](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d9978b2c7cdf0791ff8a8c2c23e4aab3c11b9c04))
+
+
+### Bug Fixes
+
+* Amina S boolean values ([#8440](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8440)) ([7c89566](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7c895668fde39734e0faa61f29bd324e7673837f))
+* **detect:** Detect `_TZE200_9mjy74mp` as Moes TRV801 https://github.com/Koenkk/zigbee-herdsman-converters/pull/8418 ([e7ba34b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e7ba34bea6c022ec41acc8e1841effd233ae877a))
+* **detect:** Detect `_TZE204_nqqylykc` as Avatto ZDMS16-1 ([#8436](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8436)) ([60d22c5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/60d22c5bc62f3785f32b6d4ba74afe2470aa916a))
+* Fix bug in tuyaModernExtend ([#8435](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8435)) ([36f5592](https://github.com/Koenkk/zigbee-herdsman-converters/commit/36f55928f91e6a0925d54d2b6b15bef80d7bda92))
+* **ignore:** `deviceLogString` not called properly ([#8441](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8441)) ([3807b3d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3807b3dc2bf3ba6ac78c39b765b280a465f95c2a))
+* **ignore:** Fix MAZDA TR-M2Z Get system mode with preset enabled ([#8439](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8439)) ([764c7a7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/764c7a757889bf860525335b570cb34217486c2c))
+* Update 3r Vibration sensor xyz axis ([#8434](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8434)) ([d8c660c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d8c660c1893c72cc9d6d7960c3439937a3f5e268))
+
 ## [21.2.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.2.0...v21.2.1) (2024-12-03)
 
 
